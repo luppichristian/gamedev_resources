@@ -110,6 +110,7 @@
 # 2D platformer physics
 [Box2D for platformer physics](https://bhopkins.net/pages/mmphysics/)<br>
 [Box2D docs](https://box2d.org/documentation/)<br>
+[Advanced Box2d platfomer guide](https://defold.com/tutorials/platformer/)<br>
 
 # Pixel art
 [Starting guide with aseprite](https://www.youtube.com/watch?v=DKmrBUpd0yw)<br>
