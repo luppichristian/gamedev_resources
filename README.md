@@ -4,6 +4,7 @@
 [Memory Arenas lifetimes](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)<br>
 [Rfleury programming posts](https://www.rfleury.com/p/posts-table-of-contents)<br>
 [Handmade Hero Episode Guide](https://guide.handmadehero.org/code/)<br>
+[Handmade Hero Videos](https://www.youtube.com/@MollyRocket/playlists)<br>
 [Introduction to Hash tables](https://guide.handmadehero.org/code/day055/#617)<br>
 [Hash tables Occupancy](https://guide.handmadehero.org/code/day351/#6055)<br>
 [Simple hash functions](https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html)<br>
@@ -117,11 +118,15 @@
 [Download color palettes here](https://lospec.com/palette-list)<br>
 
 # Audio Programming from Scratch
-
+[Getting started](https://audiodev.blog/newbie-resources/)<br>
+[Handmade Hero Audio videos](https://www.youtube.com/watch?v=UuqcgQxpfO8&list=PLEMXAbCVnmY4UakJTODzmY-6rSPKkuLr5)<br>
+[Sound mixing](https://fowens.people.ysu.edu/BasicAudioMixerDocument.pdf)<br>
 
 # FMOD Setup (Audio)
+[Why use FMOD & getting started](https://www.youtube.com/watch?v=7A1HMOsD2eU&t=29s)<br>
 [FMOD website](https://www.fmod.com/)<br>
 [FMOD engine docs](https://www.fmod.com/docs/2.03/api/welcome.html)<br>
 [Getting started with FMOD](https://www.youtube.com/playlist?list=PLp4vT3ssm5SUgEJpDeA0Nb-1BKGxnDu2m)<br>
-[FMOD example in C++](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716)<vr>
+[FMOD example in C++](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716)<br>
 [FMOD other example in C++](https://www.roguebasin.com/index.php?title=Implementing_sound_in_C_and_C_Plus_Plus)<br>
+[Another guide for FMOD](https://codyclaborn.me/tutorials/making-a-basic-fmod-audio-engine-in-c/)<br>
