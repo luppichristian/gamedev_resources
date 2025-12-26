@@ -115,3 +115,13 @@
 # Pixel art
 [Starting guide with aseprite](https://www.youtube.com/watch?v=DKmrBUpd0yw)<br>
 [Download color palettes here](https://lospec.com/palette-list)<br>
+
+# Audio Programming from Scratch
+
+
+# FMOD Setup (Audio)
+[FMOD website](https://www.fmod.com/)<br>
+[FMOD engine docs](https://www.fmod.com/docs/2.03/api/welcome.html)<br>
+[Getting started with FMOD](https://www.youtube.com/playlist?list=PLp4vT3ssm5SUgEJpDeA0Nb-1BKGxnDu2m)<br>
+[FMOD example in C++](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716)<vr>
+[FMOD other example in C++](https://www.roguebasin.com/index.php?title=Implementing_sound_in_C_and_C_Plus_Plus)<br>
