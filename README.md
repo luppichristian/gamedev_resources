@@ -121,6 +121,24 @@
 [Getting started](https://audiodev.blog/newbie-resources/)<br>
 [Handmade Hero Audio videos](https://www.youtube.com/watch?v=UuqcgQxpfO8&list=PLEMXAbCVnmY4UakJTODzmY-6rSPKkuLr5)<br>
 [Sound mixing](https://fowens.people.ysu.edu/BasicAudioMixerDocument.pdf)<br>
+[miniaudio](https://github.com/mackron/miniaudio)<br>
+[Real-time acoustic ray tracing](https://www.audiogaming.net/)<br>
+[Sound propagation & reflections](https://gamma.cs.unc.edu/SOUND/)<br>
+[Valve Steam Audio](https://valvesoftware.github.io/steam-audio/)<br>
+[PortAudio examples](http://www.portaudio.com/docs/v19-doxydocs/tutorial_start.html)<br>
+[Spatial Sound & Distance Attenuation](http://paulbourke.net/miscellaneous/audio/)<br>
+[Valve – Audio Spatialization in Games](https://developer.valvesoftware.com/wiki/Audio_Spatialization)<br>
+[XAudio2 distance & Doppler math](https://learn.microsoft.com/en-us/windows/win32/xaudio2/how-to--use-3d-audio)<br>
+
+# Audio Effects
+[Julius O. Smith (Stanford) – HRTF & Spatial Hearing](https://ccrma.stanford.edu/~jos/spatial/)<br>
+[MIT KEMAR HRTF database](https://sound.media.mit.edu/resources/KEMAR.html)<br>
+[EBU R128 loudness standard](https://tech.ebu.ch/publications/r128)<br>
+[FFmpeg loudnorm filter](https://ffmpeg.org/ffmpeg-filters.html#loudnorm)<br>
+[Pan laws explained](http://www.musicdsp.org/en/latest/Effects/181-pan-law.html)<br>
+[Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/)<br>
+[Audio EQ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)<br>
+[MusicDSP](http://www.musicdsp.org/)<br>
 
 # FMOD Setup (Audio)
 [Why use FMOD & getting started](https://www.youtube.com/watch?v=7A1HMOsD2eU&t=29s)<br>
@@ -130,6 +148,7 @@
 [FMOD example in C++](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716)<br>
 [FMOD other example in C++](https://www.roguebasin.com/index.php?title=Implementing_sound_in_C_and_C_Plus_Plus)<br>
 [Another guide for FMOD](https://codyclaborn.me/tutorials/making-a-basic-fmod-audio-engine-in-c/)<br>
+[gameaudioprogramming](https://gameaudioprogramming.com/)<br>
 
 # Fonts
 [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h)<br>
