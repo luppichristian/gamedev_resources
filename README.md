@@ -25,6 +25,9 @@
 [Efficient Gaussian Blur with linear sampling](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)<br>
 [GPU gems](https://developer.nvidia.com/gpugems/gpugems/contributors)<br>
 [Color grading with Look-up Textures](https://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)<br>
+[Legacy curve rendering](https://users.cs.jmu.edu/bernstdh/web/common/lectures/summary_opengl-bezier-curves.php)<br>
+[Legacy circle rendering](https://gist.github.com/linusthe3rd/803118)<br>
+[Drawing bezier curves](https://ciechanow.ski/drawing-bezier-curves/)<br>
 
 # Graphics APIs:
 [Learn OpenGL ORG](https://learnopengl.com/)<br>
