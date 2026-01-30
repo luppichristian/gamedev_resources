@@ -168,3 +168,4 @@
 [Unicode conversions](https://www.youtube.com/watch?v=OkW7_rWz70A&list=PLT6InxK-XQvNKTyLXk6H6KKy12UYS_KDL&index=8)<br>
 [UTFPP library](https://github.com/Alexhuszagh/UTFPP)<br>
 [Icon library](https://github.com/juliettef/IconFontCppHeaders)<br>
+[convert-unicode-code-points-to-utf-8-and-utf-32](https://stackoverflow.com/questions/42012563/convert-unicode-code-points-to-utf-8-and-utf-32)<br>
