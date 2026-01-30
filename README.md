@@ -130,3 +130,14 @@
 [FMOD example in C++](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716)<br>
 [FMOD other example in C++](https://www.roguebasin.com/index.php?title=Implementing_sound_in_C_and_C_Plus_Plus)<br>
 [Another guide for FMOD](https://codyclaborn.me/tutorials/making-a-basic-fmod-audio-engine-in-c/)<br>
+
+# Fonts
+[stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h)<br>
+[Freetype](https://github.com/freetype/freetype)<br>
+[Handmade Hero Fonts Playlist](https://www.youtube.com/watch?v=ZK7PezR1KgU&list=PLEMXAbCVnmY43tjaptnJW0rMP-DsXww1Y)<br>
+[Freetype Tutorial](https://freetype.org/freetype2/docs/tutorial/step1.html)<br>
+[Freetype + OpenGL 4.5 example](https://github.com/EdoardoLuciani/OpenGL-4.5-Freetype-Example)<br>
+
+# Unicode
+[UTF8 and UTF16](https://medium.com/@panditakash38/mastering-unicode-in-c-a-comprehensive-guide-to-utf-8-and-utf-16-in-windows-355687c35641)<br>
+[Unicode conversions](https://www.youtube.com/watch?v=OkW7_rWz70A&list=PLT6InxK-XQvNKTyLXk6H6KKy12UYS_KDL&index=8)<br>
