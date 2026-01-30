@@ -53,6 +53,7 @@
 [Shadertoy for online shader editing](https://www.shadertoy.com/)<br>
 [The book of shaders](https://thebookofshaders.com/)<br>
 [Conditionals in Shaders](https://iquilezles.org/articles/gpuconditionals/)<br>
+[HLSL-ConstantBufferLayoutVisualizer](https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/)<br>
 
 # CPU Particle Systems:
 [Handmade Hero introduction to Particle Systems](https://www.youtube.com/watch?v=G6OGKP3MaUI)<br>
@@ -142,6 +143,7 @@
 [Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/)<br>
 [Audio EQ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)<br>
 [MusicDSP](http://www.musicdsp.org/)<br>
+[how-i-make-banger-sfx-with-no-cost](https://randyprime.beehiiv.com/p/how-i-make-banger-sfx-with-no-cost)<br>
 
 # FMOD Setup (Audio)
 [Why use FMOD & getting started](https://www.youtube.com/watch?v=7A1HMOsD2eU&t=29s)<br>
