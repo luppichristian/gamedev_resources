@@ -137,7 +137,15 @@
 [Handmade Hero Fonts Playlist](https://www.youtube.com/watch?v=ZK7PezR1KgU&list=PLEMXAbCVnmY43tjaptnJW0rMP-DsXww1Y)<br>
 [Freetype Tutorial](https://freetype.org/freetype2/docs/tutorial/step1.html)<br>
 [Freetype + OpenGL 4.5 example](https://github.com/EdoardoLuciani/OpenGL-4.5-Freetype-Example)<br>
+[stb-truetype-example](https://github.com/justinmeiners/stb-truetype-example/blob/master/main.c)<br>
+[Text rendering with texture atlases](https://learnopengl.com/In-Practice/Text-Rendering)<br>
+[Vector based GPU text rendering repo](https://github.com/GreenLightning/gpu-font-rendering)<br>
+[Implementing a Font Reader and Rasterizer from Scratch](https://handmade.network/forums/articles/t/7330-implementing_a_font_reader_and_rasterizer_from_scratch%252C_part_1__ttf_font_reader.)<br>
+[Reading TTF files and rasterizing them using a handmade approach](https://handmade.network/forums/wip/t/7610-reading_ttf_files_and_rasterizing_them_using_a_handmade_approach%252C_part_2__rasterization)<br>
 
 # Unicode
+[Unicode in C/C++](https://www.cprogramming.com/tutorial/unicode.html)<br>
 [UTF8 and UTF16](https://medium.com/@panditakash38/mastering-unicode-in-c-a-comprehensive-guide-to-utf-8-and-utf-16-in-windows-355687c35641)<br>
 [Unicode conversions](https://www.youtube.com/watch?v=OkW7_rWz70A&list=PLT6InxK-XQvNKTyLXk6H6KKy12UYS_KDL&index=8)<br>
+[UTFPP library](https://github.com/Alexhuszagh/UTFPP)<br>
+[Icon library](https://github.com/juliettef/IconFontCppHeaders)<br>
